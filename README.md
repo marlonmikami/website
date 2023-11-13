@@ -1,5 +1,5 @@
-# Artigos
+## Minimalismo Digital
 
-### [Como transformar o seu celular em um tijolo](art0001.md)
+Minimalismo digital é o conceito de moldar a sua vida digital de maneira intencional ao invés de usar todas as ferramentas disponíveis simplesmente por elas existirem. 
 
-Instruções para reduzir a usabilidade e atratividade do seu celular. Para quem tem interesse em passar menos tempo no celular.
+### [Como parar de assistir youtube excessivamente](artigos/art0001.md)
