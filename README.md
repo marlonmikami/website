@@ -1,6 +1,3 @@
-[[Artigos]]()   [[Downloads]]()   [[Sobre]]()
----
-
 ## Minimalismo Digital
 
 Minimalismo digital é o conceito de moldar a sua vida digital de maneira intencional ao invés de usar todas as ferramentas disponíveis simplesmente por elas existirem. 
