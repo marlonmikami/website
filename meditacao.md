@@ -1,1 +1,1 @@
-# Como praticar a meditação
+# Como praticar meditação
