@@ -1,1 +1,1 @@
-### (Como praticaticar meditação)[meditacao.md]
+### [Como praticaticar meditação](meditacao.md)
