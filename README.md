@@ -1,1 +1,3 @@
-### [Como praticaticar meditação](meditacao.md)
+### [Práticas de meditação]
+
+* [Respiração Alternada (Nadi shodhana)](meditacao/repiracaoalternada.md)
