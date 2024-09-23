@@ -1,3 +1,5 @@
-### Práticas de meditação
+## Práticas de meditação
 
-* [Respiração Alternada (Nadi shodhana)](meditacao/repiracaoalternada.md)
+* #### [Respiração alternada (Nadi shodhana)](meditacao/repiracaoalternada.md)
+* #### [Relaxamento profundo (Yoga Nidra)](meditacao/yogaNidra.md)
+* #### [Atenção plena (Mindfulness)](meditacao/Mindfulness.md)
