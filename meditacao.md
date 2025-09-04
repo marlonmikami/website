@@ -1,5 +1,5 @@
-# Como praticar meditação
+## Práticas de meditação
 
-Primeiramente, sente-se com a coluna reta, em qualquer posição que ache confortável, apenas tomando cuidado para evitar uma posição que cause sonolência. 
-
-Em seguida, feche seus olhos e preste atenção no seu corpo. Perceba a tensão nos seus músculos, relaxe os ombros e o rosto, relaxe qualquer tensão que encontrar.
+* [Respiração alternada (Nadi shodhana)](meditacao/repiracaoalternada.md)
+* [Relaxamento profundo (Yoga Nidra)](meditacao/yogaNidra.md)
+* [Atenção plena (Mindfulness)](meditacao/mindfulness.md)

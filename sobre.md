@@ -1,5 +1,3 @@
+**Autor**: Marlon Miranda Mikami
 
-
-Autor: Marlon Miranda Mikami
-
-Eu escrevo sobre bem estar, disponibilizando conteúdo que eu gostaria de ter tido acesso no passado.
+**Sobre o Site**: Esse é meu site pessoal, onde eu escrevo meus pensamentos e compartilho meus conhecimentos e minha arte.
